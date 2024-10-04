@@ -1,62 +1,31 @@
 # Project Title
 
-Simple overview of use/purpose.
+Found myself having trouble organizing my day-to-day tasks. Coded this website to be able to organize my day even if I do not have any internet access. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This to-do list website was made using Microsoft Visual Studio Code. It features the use of languages like HTML, CSS, and Javascript. The css file is an external style sheet, not an 
+internal stylesheet. However, the styles.css file is referenced within the HTML code using <link rel = "stylesheet" href="styles.css">
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+*N/A
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Ensure images folder, "index.html", "styles.jss", and "script.js" are in the same folder.
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Lawrence Arryl Lopez
+* Email : arryllopez7@gmail.com
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Acknowledgements : 
+* GreatStackDev (inspiration) 
